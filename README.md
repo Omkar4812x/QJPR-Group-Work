@@ -1,22 +1,27 @@
-# QJPR Group Work
+# 🏢 QJPR Job Fair & HR Company Directory
 
-## 📌 Description
-Welcome to **QJPR Group Work**! This project is part of the curated software workspace.
+> **Collaborative data repository and organizational workspace for regional Job Fair event planning, HR participation management, and multi-city company directories.**
 
-## 🚀 Getting Started
+---
 
-### Prerequisites
-Ensure you have the required runtime environment installed for this project:
-- **Node.js** (if applicable for web/frontend components)
-- **Python 3.10+** (if applicable for AI/voice scripts)
-- **Java JDK 17+** (if applicable for Java applications)
+## ✨ Features
 
-### Installation & Execution
-1. Clone this repository to your local machine.
-2. Install dependencies:
-   - For Node.js projects: `npm install`
-   - For Python projects: `pip install -r requirements.txt` (or create a venv: `python -m venv venv`)
-3. Launch the application entry point.
+- 📑 **Regional HR Company Directories**
+  - Structured spreadsheets containing verified HR contact information across Kolhapur, Mumbai, Pune, Sangli, and Satara regions.
+- 📜 **Official Documentation & Letters**
+  - HR participation letters, event guidelines, and candidate registration records.
+- 📊 **Participation Analytics**
+  - Tracking participating companies, open software engineering roles, and candidate interview schedules.
 
-## 📄 License & Attribution
-Created and maintained as part of the Tech Hub projects collection.
+---
+
+## 📄 Contents
+
+- `MUMBAI COMPANIES.xlsx`, `PUNE COMPANIES.xlsx`, `KOLHAPUR COMPANIES.xlsx`, `SANGLI COMPANIES.xlsx`, `SATARA COMPANIES.xlsx`
+- `HR PARTICIPATING LETTER.pdf`, `HR PARTICIPATION LIST.xlsx`
+
+---
+
+## 📄 License
+
+Distributed for internal group collaboration.
